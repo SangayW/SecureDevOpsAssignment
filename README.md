@@ -87,7 +87,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image11.png"
 style="width:6.10448in;height:0.68059in" />
 
-2.  install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
+     2.  install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 
 <img src="./media/image12.png"
 style="width:6.26806in;height:0.18264in" />
